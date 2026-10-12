@@ -129,7 +129,7 @@ By analyzing AQI, PM2.5, and PM10 values, we can get a clearer picture of differ
 
 # Explanation Video :
 
-https://drive.google.com/file/d/1kvuml9OqGXYz04xtgBe5xBb3SJyAj1BS/view?usp=sharing
+
 
 ## 👩‍💻 Author
 
